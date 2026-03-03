@@ -23,3 +23,16 @@ Industrial workplaces require strict helmet compliance to reduce workplace injur
 &nbsp; 6. Modular and scalable project structure
 
 ---
+🧠 Steps 
+
+&nbsp; 1. Create virtual environment:
+          python -m venv venv
+          venv\Scripts\activate
+          
+&nbsp; 2. python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+&nbsp; 3. uvicorn app.app:app --reload    
+
+
+
