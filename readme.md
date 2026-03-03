@@ -26,7 +26,7 @@ Industrial workplaces require strict helmet compliance to reduce workplace injur
 🧠 Steps 
 
 &nbsp; 1. Create virtual environment:
-          python -m venv venv
+          python -m venv venv 
           venv\Scripts\activate
           
 &nbsp; 2. python -m pip install --upgrade pip
